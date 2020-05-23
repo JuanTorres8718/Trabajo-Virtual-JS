@@ -1,0 +1,22 @@
+.content-image{
+    width: 300px;
+    height: 300px;
+}
+
+.success{
+    border-color: green;
+    background-color: greenyellow;
+    color: green;
+}
+
+.error{
+    border-color: red;
+    background-color: rgb(250, 152, 152);
+    color: red;
+}
+
+.warning{
+    border-color: yellow;
+    background-color: yellowgreen;
+    color: yellow;
+}

@@ -1,0 +1,4 @@
+La segunda imagen tiene un error, primero debe declarar la variable global en la linea 2 si quiere imprimirlo en la funcion.
+En la 3 imagen la primera vez que ejecute la funcion imprimira undefined ya que no se le ha asignado ningun valor y cuando realice la segunda ejecucion de la funcion imprimira un "¡Hola!" por que ya se le asigno un valor
+En la 4 imagen no se le esta asignado el tipo de dato ya sea const let o variable
+En la 5 imagen no es necesario volver a darle el tipo de dato a fin de cuentas ya lo esta declarando abajo antes  de ejecutar la funcion

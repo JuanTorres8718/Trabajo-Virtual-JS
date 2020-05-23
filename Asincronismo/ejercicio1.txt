@@ -1,0 +1,5 @@
+la tarea 1 se empieza ejecutando en funB debido a que lo estamos llamando a ejecutar de primero, de ahi pasa a ejecutar lo que contiene internamente que es otra funcion en la cual ya se le hace un llamado a la funcion A y de ahi se ejecuta esta y sale un console.log
+
+luego pasa directamente al if y este realiza una validacion y dependiendo si es verdadero o falso sale el mensaje.
+
+de ahi sale la parte de un evento cuando al boton se le haga click, el carga todo el evento y lo guarda en la Web Apis hasta que el usuario ejecute el evento dandole click al boton y ya esta pasa por el callback Queue y esta la envia al call stack para que se pueda ejecutar la funcion.

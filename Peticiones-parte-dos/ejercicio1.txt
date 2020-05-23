@@ -1,0 +1,9 @@
+1.https://swapi.dev/api/
+2.No requiere de una autenticacion
+3.http https://swapi.dev/api/
+4.https://swapi.dev/api/people/1
+5.https://swapi.dev/api/films/1
+6.A  planets,species, vehicles, starships
+7.https://swapi.dev/api/people, si esta paginado
+8. https://swapi.dev/api/people/?page=1 esta puede ser una opcion donde tiene el valor de 1 puedo cambiarlo por cualquier numero mayor a 1 para buscar en las diferentes paginas para encontrar el personaje, otroa es https://swapi.dev/api/people/1 donde en el 1 va el ID del personaje puede ser cualquier numero mayor a 1 y por ultimo https://swapi.dev/api/people/ donde nos trae todos los personajes
+9-https://swapi.dev/api/planets/1/?format=wookiee

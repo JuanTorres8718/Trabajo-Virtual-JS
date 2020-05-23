@@ -1,0 +1,6 @@
+1. En la primera imagen el mensaje sera:
+"El resultado sera B",
+2. En la segunda el resultado es:
+"El resultado sera A" 
+3. En la tercera imagen el resultado es:
+"El resultado sera A" 

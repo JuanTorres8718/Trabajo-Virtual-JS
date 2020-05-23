@@ -1,0 +1,23 @@
+.content {
+    width: 700px;
+    height: 700px;
+    background-color: wheat;
+}
+
+.title{
+    text-align: center;
+}
+
+.line_through {
+    text-decoration: line-through;
+}
+
+input{
+    transform: scale(1.5);
+}
+
+.pStyle{
+    width: 24%;
+    margin-bottom: -19px;
+    margin-left: 27px;
+}
